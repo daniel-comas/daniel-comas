@@ -3,7 +3,12 @@
 <div align="center">
 
 ### aspiring cyber intelligence officer | high school junior
-### this is a work in progress 😵‍💫
+### this is a work in progress 😵‍💫 but here's how to reach out: 
+
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://raw.githubusercontent.com/gauravghongde/social-icons/30c95ea4c26d70ebceb4e34fc3d3d4514ff18643/PNG/Color/LinkedIN.png))](https://linkedin.com/in/danielcomas07)
+[![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://raw.githubusercontent.com/gauravghongde/social-icons/30c95ea4c26d70ebceb4e34fc3d3d4514ff18643/PNG/Color/Github.png))](https://github.com/daniel-comas)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adonis.garcia@nyu.edu) -->
 
 <!--
 **daniel-comas/daniel-comas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

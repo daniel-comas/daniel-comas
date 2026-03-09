@@ -22,4 +22,6 @@
 ![Python](https://img.shields.io/badge/python-Python?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
 ![HTML](https://img.shields.io/badge/html-HTML?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/css-CSS?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
+
+i also have some experience with vibe coding!
 #### more soon ;)

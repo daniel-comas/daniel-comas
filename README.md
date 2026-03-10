@@ -24,3 +24,18 @@
 ![CSS](https://img.shields.io/badge/css-CSS?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
      & some vibe coding
 #### more soon ;)
+
+---
+
+## cool places i've been
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="needs a link" alt="Google Code Next" width="120" height="120" style="object-fit: contain;"/><br/>
+<b>Google Code Next</b><br/>
+<sub>oct 2024 - dec 2025</sub>
+</td>
+

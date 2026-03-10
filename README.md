@@ -34,7 +34,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="needs a link" alt="Google Code Next" width="120" height="120" style="object-fit: contain;"/><br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/3840px-Google_%22G%22_logo.svg.png" alt="Google Code Next" width="80" height="80" style="object-fit: contain;"/><br/>
 <b>Google Code Next</b><br/>
 <sub>oct 2024 - dec 2025</sub>
 </td>
